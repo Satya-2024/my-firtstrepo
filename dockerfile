@@ -1,0 +1,5 @@
+
+FROM
+COPY
+LID
+run
