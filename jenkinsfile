@@ -2,3 +2,7 @@ pipeline {
 stages{
 stage {
 steps
+environmnet
+}
+}
+}
